@@ -700,8 +700,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TDMT_2026_Clases
-  metroPackageVersion: 
+  metroPackageName: TDMT2026Clases
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -709,7 +709,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: TDMT_2026_Clases
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: TDMT_2026_Clases
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -776,7 +776,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 0a09d1b7-1414-4b22-8884-7fdb7c6ee2b5
   framebufferDepthMemorylessMode: 0
